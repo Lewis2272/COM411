@@ -1,0 +1,21 @@
+# Display a box
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+
+# Display a robot (or attempted robot)
+print("\t----------")
+print("\t- o   o  -")
+print("\t- -   -  -")
+print("\t-  ---   -")
+print("\t----------")
+print("\t    #     ")
+print("\t    #     ")
+print("##################")
+print("### ########## ###")
+print("### ########## ###")
+print("### ########## ###")
+print("### ########## ###")
+print("### ########## ###")
+
